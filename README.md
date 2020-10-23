@@ -22,6 +22,7 @@
 
 - Go to http://localhost or http://localhost:80
 
+
 ## NGINX CONFIGURATION FILE
 
 ```
