@@ -6,7 +6,7 @@
 
 ## Steps for Running
 
-# Make sure you install Docker Engine and Nginx in your system 
+### Make sure Docker Engine and Nginx installed in the system 
 - Installing Docker: please go through the link and follow [https://docs.docker.com/engine/install/]
 
 - Installing Nginx
