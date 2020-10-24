@@ -2,8 +2,9 @@
 
 01. Load Balancing Three Docker containers with Nginx
 02. Load Balancing by health check
+03. Load Balancing by Weight check
 
-# Steps for Running
+## Steps for Running
 
 - Run with Docker Compose
     ```
@@ -11,7 +12,6 @@
     ```
 
 - Go to http://localhost or http://localhost:80
-
 
 ## NGINX CONFIGURATION FILE
 
