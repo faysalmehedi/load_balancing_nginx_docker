@@ -6,9 +6,14 @@
 
 ## Steps for Running
 
+- Please make sure docker engine install in the system; go throuh official documentation: [https://docs.docker.com/engine/install/]
+
+- Also installed docker-compose in the system; Go throuh official documentation: [https://docs.docker.com/compose/install/]
+
 - Run with Docker Compose
     ```
-    $ docker-compose up
+    $ sudo docker-compose up
+    $ sudo docker-compose ps
     ```
 
 - Go to http://localhost or http://localhost:80
