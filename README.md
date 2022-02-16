@@ -1,3 +1,7 @@
+## Project Diagram
+
+![Project Diagram](https://github.com/faayam/load_balancing_nginx_docker/blob/main/load-balance-nginx-docker.png)
+
 ## TASK: 
 
 01. Load Balancing Three Docker containers with Nginx
@@ -11,9 +15,9 @@
 - Also installed docker-compose in the system; Go throuh official documentation: [https://docs.docker.com/compose/install/]
 
 - Run with Docker Compose
-    ```
-    $ sudo docker-compose up
-    $ sudo docker-compose ps
+    ```bash
+    sudo docker-compose up -d
+    sudo docker-compose ps
     ```
 
 - Go to http://localhost or http://localhost:80
